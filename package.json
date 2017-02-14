@@ -28,7 +28,7 @@
     "babel-plugin-transform-es2015-parameters": "^6.1.18",
     "babel-plugin-transform-es2015-destructuring": "^6.1.18",
     "babel-plugin-transform-es2015-block-scoping": "^6.1.18",
-    "babel-plugin-transform-es2015-typeof-symbol": "^6.1.18",
+    "babel-plugin-transform-es2015-typeof-symbol": "^6.23.0",
     "babel-plugin-transform-regenerator": "^6.1.18"
   },
   "devDependencies": {
