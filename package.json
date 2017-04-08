@@ -13,7 +13,7 @@
   "dependencies": {
     "babel-plugin-transform-es2015-template-literals": "^6.1.18",
     "babel-plugin-transform-es2015-literals": "^6.1.18",
-    "babel-plugin-transform-es2015-function-name": "^6.1.18",
+    "babel-plugin-transform-es2015-function-name": "^6.24.1",
     "babel-plugin-transform-es2015-arrow-functions": "^6.1.18",
     "babel-plugin-transform-es2015-block-scoped-functions": "^6.1.18",
     "babel-plugin-transform-es2015-classes": "^6.1.18",
